@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 SaaS Admin Dashboard
 
-## Getting Started
+A modern, high-performance SaaS analytics and management portal designed for enterprise web applications. Built with a focus on data density, clean visual hierarchy, and intuitive user navigation, this dashboard provides real-time oversight over key operational metrics.
 
-First, run the development server:
+![SaaS Admin Dashboard Preview](https://via.placeholder.com/1200x600/0f172a/38bdf8?text=SaaS+Admin+Dashboard+UI)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **📈 Real-Time Analytics:** Interactive metric cards showcasing MRR, ARR, active subscriber growth, and churn rates with clear visual trends.
+* **👥 User & Subscription Management:** Complex data tables with search, filtering, and pagination support for managing accounts, roles, and billing status.
+* **📊 Visual Charts & Reports:** Integrated charts providing historical trends for revenue, platform traffic, and system usage.
+* **🌙 Dark / Light Mode Support:** Fluid theme toggling designed to maintain high readability across various lighting environments.
+* **📱 Fully Responsive:** Adaptive container grids ensuring seamless layout scaling across desktop, tablet, and mobile displays.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+* **Frontend Framework:** React / Next.js / TypeScript
+* **Styling:** Tailwind CSS / Custom CSS Modules
+* **Icons & Assets:** Lucide Icons
+* **Deployment:** Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Getting Started
 
-## Deploy on Vercel
+Follow these steps to set up and run the dashboard locally on your machine.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Prerequisites
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Make sure you have the following installed:
+* **Node.js** (v18.0.0 or higher)
+* **npm**, **yarn**, or **pnpm**
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/camleej3213/saas-admin-dashboard.git](https://github.com/camleej3213/saas-admin-dashboard.git)
